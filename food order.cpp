@@ -356,3 +356,4 @@ int main()
     obj1.total();
     _getch();
 }
+
