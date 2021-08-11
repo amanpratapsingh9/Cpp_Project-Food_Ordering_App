@@ -301,6 +301,7 @@ public:
         menu2();
     }
 };
+
 class three:public one,public two
 {
 	public:
