@@ -351,6 +351,7 @@ class three:public one,public two
 			}
 		}
 };
+
 int main()
 {
     three obj1;
